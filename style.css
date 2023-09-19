@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color: black;
+}
+
+.container {
+    width: 80%;
+    border: 1px solid #32b9cd;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h1 {
+    color: #32b9cd;
+    margin: 0;
+}
+
+ul {
+    color: #ffff00;
+    display: flex;
+}
